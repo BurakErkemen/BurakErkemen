@@ -26,15 +26,15 @@
 
 
 <table>
-  <tr>
-    <td align="center">
+  <tr weight="100%" height="100%" >
+    <td align="center" >
       <img width="100%" height="%100" src="https://github-readme-streak-stats.herokuapp.com/?user=burakerkemen" alt="burakerkemen Streak Stats" />
     </td>
     <td align="center">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=burakerkemen&show_icons=true&locale=en" alt="burakerkemen GitHub Stats" />
     </td>
   </tr>
-  <tr>
+  <tr weight="100%" height="100%">
     <td align="center" >
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakerkemen&show_icons=true&locale=en&layout=compact" alt="burakerkemen Top Languages" />
     </td>
