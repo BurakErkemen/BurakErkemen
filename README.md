@@ -39,7 +39,7 @@
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakerkemen&show_icons=true&locale=en&layout=compact" alt="burakerkemen Top Languages" />
     </td>
     <td style="display: flex; justify-content: center;">
-      <img  width="470" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd3NmN1ZzY3YnF5cDdram0wa3hsOWdnN252cnVkemg2Znd3dnRsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LQHvkbIzTSLe/giphy.gif" alt="burakerkemen Top Languages" />
+      <img  width="100%" height="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd3NmN1ZzY3YnF5cDdram0wa3hsOWdnN252cnVkemg2Znd3dnRsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LQHvkbIzTSLe/giphy.gif" alt="burakerkemen Top Languages" />
     </td>
 
   </tr>
