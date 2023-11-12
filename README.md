@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **C#**
 
-- 🌱 I’m currently learning **SAP Abap**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
