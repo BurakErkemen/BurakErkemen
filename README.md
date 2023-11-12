@@ -17,4 +17,11 @@
 <img style="width: 50%;float: left;width="100;" src="https://github-readme-stats.vercel.app/api?username=burakerkemen&show_icons=true&locale=en" alt="burakerkemen" />
 
 
-        
+<table>
+<thead>
+<tr>
+<th><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://camo.githubusercontent.com/e8d989fb098a1b6f1f4d1d56d72e3a16da77868208b7ea5d9ca750c2df2243a0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6475726765736873616d61726979612673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d627565667926686964655f626f726465723d74727565" alt="Durgesh's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a></th>
+<th><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://camo.githubusercontent.com/101324666e4984299926a28fe6afde450e3b46f9fd04ce93343d7bbfecb87ae9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6475726765736873616d6172697961266c61796f75743d636f6d70616374267468656d653d627565667926686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a></th>
+</tr>
+</thead>
+</table>
