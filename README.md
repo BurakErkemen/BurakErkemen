@@ -19,8 +19,5 @@
 
 <div>
     <img aligin="%50" src="https://github-readme-stats.vercel.app/api?username=burakerkemen&show_icons=true&locale=en" alt="burakerkemen" />
-    <img align="%50" src="https://github-readme-streak-stats.herokuapp.com/?user=burakerkemen&" alt="burakerkemen" />
+    <img aligin="%50" src="https://github-readme-streak-stats.herokuapp.com/?user=burakerkemen&" alt="burakerkemen" />
 </div>
-<button>
-    English
-</button>
