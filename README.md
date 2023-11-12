@@ -17,7 +17,7 @@
 
 <div class="container" alt="Coding" float: right;width="100;">
     <img style="width: 50%;float: left;width="100;" src="https://github-readme-stats.vercel.app/api?username=burakerkemen&show_icons=true&locale=en" alt="burakerkemen" />
+    <img style="width: 50%;float: right;width="100;" src="https://github-readme-streak-stats.herokuapp.com/?user=burakerkemen&" alt="burakerkemen" />
 </div>
-<div>
-        <img style="width: 50%;float: right;width="100;" src="https://github-readme-streak-stats.herokuapp.com/?user=burakerkemen&" alt="burakerkemen" />
-</div>
+
+        
