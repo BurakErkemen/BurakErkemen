@@ -19,5 +19,5 @@
 
 <div style="margin: 0 auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=burakerkemen&show_icons=true&locale=en" alt="burakerkemen" />
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakerkemen&" alt="burakerkemen" /></p>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakerkemen&" alt="burakerkemen" /></p>
