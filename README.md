@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td align="center">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=burakerkemen" alt="burakerkemen Streak Stats" />
+      <img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=burakerkemen" alt="burakerkemen Streak Stats" />
     </td>
     <td align="center">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=burakerkemen&show_icons=true&locale=en" alt="burakerkemen GitHub Stats" />
