@@ -14,7 +14,6 @@
     <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
   </t1>
 </table>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakerkemen&label=Profile%20views&color=0e75b6&style=flat" alt="burakerkemen" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,3 +44,4 @@
   </tr>
 </table>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakerkemen&label=Profile%20views&color=0e75b6&style=flat" alt="burakerkemen" /> </p>
