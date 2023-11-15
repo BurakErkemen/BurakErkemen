@@ -40,8 +40,13 @@
     <td style="display: flex; justify-content: center;">
       <img  width="100%" height="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd3NmN1ZzY3YnF5cDdram0wa3hsOWdnN252cnVkemg2Znd3dnRsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LQHvkbIzTSLe/giphy.gif" alt="burakerkemen Top Languages" />
     </td>
-
   </tr>
 </table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakerkemen&label=Profile%20views&color=0e75b6&style=flat" alt="burakerkemen" /> </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BurakErkemen/BurakErkemen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BurakErkemen/BurakErkemen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BurakErkemen/BurakErkemen/output/github-contribution-grid-snake.svg">
+</picture>
