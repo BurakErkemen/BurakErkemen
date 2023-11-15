@@ -54,11 +54,11 @@
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   <div style="flex: 1; padding: 10px; box-sizing: border-box;">
     <h3>✍️ Random Dev Quote</h3>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
   </div>
 
   <div style="flex: 1; padding: 10px; box-sizing: border-box; height: 300px;">
     <h3>😂 Random Dev Meme</h3>
-    <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="max-width: 100%; height: auto;">
+    <img align="center" src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="max-width: 100%; height: auto;">
   </div>
 </div>
