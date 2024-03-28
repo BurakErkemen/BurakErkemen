@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Burak Furkan ERKEMEN</h1>
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **C# and .NET**
+- 🔭 I’m currently working on **.NET and MVC**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **.NET, MVC and WEB API**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning**
+- 👯 I’m looking to collaborate on **.NET and MVC**
 
 - 📫 How to reach me **burakfurkanerkemen@gmail.com**
 <table>
