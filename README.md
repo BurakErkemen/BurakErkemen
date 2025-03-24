@@ -158,19 +158,14 @@ I'm always eager to learn, collaborate, and contribute to projects that make a d
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <!-- GitHub Streak -->
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=BurakErkemen&hide_border=true&theme=chartreuse-dark" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td align="center">
+  <tr>
+    <td colspan="2" align="center">
       <!-- Random Developer Quote -->
-Random Developer Quote
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
     </td>
   </tr>
 </table>
+
 
 ---
 
