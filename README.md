@@ -90,9 +90,15 @@
 
 ---
 
-<p align="center">
-  <i>"Kod yazmak bir sanattır; her satır, daha iyi bir çözüme giden adımdır."</i>
-</p>
+## 🎙️ Günün Matini
+
+<!-- QUOTE_START -->
+> 📚 *"Öğrendikçe öğrenecek çok şeyin olduğunu fark edersin."*
+>
+> — **Anonim**
+<!-- QUOTE_END -->
+
+---
 
 <p align="center">
   ⭐ Projelerimi beğendiyseniz yıldız vermeyi unutmayın!
