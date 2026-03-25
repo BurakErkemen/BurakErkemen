@@ -1,182 +1,99 @@
-<!-- Header Section -->
-<h1 align="center">Hi 👋, I'm <strong>Burak Furkan ERKEMEN</strong></h1>
-<h3 align="center">A passionate Software Engineer from Turkey</h3>
+<h1 align="center">Merhaba 👋, Ben Burak Furkan ERKEMEN</h1>
+<h3 align="center">🚀 Türkiye'den Tutkulu Bir Yazılım Mühendisi</h3>
 
-<!-- Animated Image 
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding" width="400">
-</p>
--->
----
-
-<!-- About Me Section -->
-### About Me
-- 🔭 **Current Work:** Diving deep into projects that leverage ASP.NET, MVC, and WEB API to solve real-world problems.
-- 👯 **Looking for Collaborations:** Open to working on exciting .NET projects that challenge the norm and foster creativity.
-- 📫 **Let's Connect:**  
-  - Email: **[burakfurkanerkemen@gmail.com](mailto:burakfurkanerkemen@gmail.com)**
-  - LinkedIn: **[burakfurkanerkemen](https://www.linkedin.com/in/burakfurkanerkemen/)**
-  - GitHub: **[BurakErkemen](https://www.github.com/BurakErkemen/)**
-
-I'm always eager to learn, collaborate, and contribute to projects that make a difference. Feel free to reach out and let's build something amazing together!
-
-
----
-<!-- Web Development -->
-<h4 align="center">Web Development</h4>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"><br>
-         <span>HTML5</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"><br>
-         <span>CSS3</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://getbootstrap.com" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"><br>
-         <span>Bootstrap</span>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Programming Languages & Frameworks -->
-<h4 align="center">Programming Languages & Frameworks</h4>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.w3schools.com/cs/" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"><br>
-         <span>C#</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://dotnet.microsoft.com/" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"><br>
-         <span>.NET</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://docs.microsoft.com/en-us/ef/" target="_blank">
-         <img src="https://th.bing.com/th/id/R.a962d5bf1691433e42657cace121da74?rik=OFfn%2fedXx%2b%2f7eg&pid=ImgRaw&r=0" alt="Entity Framework" width="40" height="40"><br>
-         <span>Entity Framework</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"><br>
-         <span>Python</span>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Databases -->
-<h4 align="center">Databases</h4>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"><br>
-         <span>MSSQL</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"><br>
-         <span>MySQL</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postgresql.org" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"><br>
-         <span>PostgreSQL</span>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://www.mongodb.com/" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"><br>
-         <span>MongoDB</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://firebase.google.com/" target="_blank">
-         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"><br>
-         <span>Firebase</span>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Data Science & Machine Learning -->
-<h4 align="center">Data Science & Machine Learning</h4>
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://pandas.pydata.org/" target="_blank">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"><br>
-         <span>Pandas</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://scikit-learn.org/" target="_blank">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"><br>
-         <span>Scikit-learn</span>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.tensorflow.org/?hl=tr" target="_blank">
-         <img src="https://th.bing.com/th/id/R.da4ba6dc3c45e002570d400ea2dbe398?rik=hugxmPh9MoA3Hg&pid=ImgRaw&r=0" alt="Scikit-learn" width="40" height="40"><br>
-         <span>Tensorflow</span>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
----
-
-<!-- GitHub Stats Section -->
-### GitHub Stats
-<table align="center">
-  <tr>
-    <td align="center">
-      <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=BurakErkemen&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <!-- Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakErkemen&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-  <tr>
-    <td colspan="2" align="center">
-      <!-- Random Developer Quote -->
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-    </td>
-  </tr>
-</table>
-
-
----
-
-<!-- Footer / Visitors Count -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BurakErkemen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BurakErkemen&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="BurakErkemen" />
+  <a href="https://www.linkedin.com/in/burakfurkanerkemen/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/BurakErkemen">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="mailto:burakfurkanerkemen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BurakErkemen/BurakErkemen/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BurakErkemen/BurakErkemen/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BurakErkemen/BurakErkemen/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
+## 👨‍💻 Hakkımda
+
+- 🔭 Şu an **ASP.NET, MVC ve Web API** üzerine gerçek dünya projeleri geliştiriyorum
+- 🤖 **RAG tabanlı ChatBot** ve **ChatGPT entegrasyonları** üzerine çalışıyorum
+- 🌱 **.NET ekosistemi** ve **Python / Makine Öğrenmesi** alanlarında kendimi geliştiriyorum
+- 👯 Yaratıcı ve fark yaratan **.NET projelerinde** iş birliğine açığım
+- 📍 Hatay / İskenderun, Türkiye
+- 📫 Ulaşmak için: **burakfurkanerkemen@gmail.com**
+
+---
+
+## 🛠️ Teknoloji Yığını
+
+### 💻 Programlama Dilleri & Frameworkler
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🌐 Web Geliştirme
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Veritabanları
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 📊 Veri Bilimi & Makine Öğrenmesi
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+## 🚀 Öne Çıkan Projeler
+
+| Proje | Açıklama | Teknoloji |
+|-------|----------|-----------|
+| [.NetAPI_JWT](https://github.com/BurakErkemen/.NetAPI_JWT) | JWT tabanlı kimlik doğrulama API'si | C# / .NET |
+| [ChatBot_RAG](https://github.com/BurakErkemen/ChatBot_RAG) | RAG mimarisiyle gelişmiş chatbot | Python |
+| [API_Using_Firebase](https://github.com/BurakErkemen/API_Using_Firebase) | Firebase entegrasyonlu RESTful API | C# |
+| [ChatBot_ChatGPT-3.5](https://github.com/BurakErkemen/ChatBot_ChatGPT-3.5) | GPT-3.5 tabanlı chatbot | Python |
+| [E-Commerce-RESTful-API](https://github.com/BurakErkemen/E-Commerce-RESTful-API) | E-ticaret RESTful API | C# |
+| [GasStation_Automation_React](https://github.com/BurakErkemen/GasStation_Automation_React) | Benzin istasyonu otomasyon sistemi | JavaScript / React |
+
+---
+
+## 📈 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BurakErkemen&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakErkemen&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurakErkemen&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
+
+---
+
+## 🐍 Katkı Grafiği
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BurakErkemen/BurakErkemen/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Kod yazmak bir sanattır; her satır, daha iyi bir çözüme giden adımdır."</i>
+</p>
+
+<p align="center">
+  ⭐ Projelerimi beğendiyseniz yıldız vermeyi unutmayın!
+</p>
