@@ -1,0 +1,32 @@
+name: 🎙️ Günlük Matin Güncelle
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # Her gün sabah 09:00 (UTC+3)
+  workflow_dispatch:        # Elle de çalıştırılabilir
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Repoyu çek
+        uses: actions/checkout@v3
+
+      - name: Python kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Matini güncelle
+        run: python update_quote.py
+
+      - name: Değişiklikleri kaydet
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🎙️ Günün matini güncellendi"
+          git push
